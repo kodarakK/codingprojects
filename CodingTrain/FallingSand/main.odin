@@ -10,27 +10,24 @@ main :: proc() {
 	w: i32: 10
 	rl.InitWindow(WindowWidth, WindowHeight, "Falling Sand")
 
-	cols:i32: WindowWidth / w
-	rows:i32: WindowHeight / w
+	rows:i32: WindowWidth / w
+	cols:i32: WindowHeight / w
 	grid: [cols][rows]i32
 
 	for i in 0..<cols {
 	    for j in 0..<rows {
 	    	grid[i][j] = 0
-	    	x:i32= i * w
-	    	y:i32= j * w
-		fmt.printf("i: %d, j: %d, x: %d, y: %d\n",i,j,x,y)
+                fmt.println(i*w, j*w, i*w+w, j*w+w)
 	    }
 	}
 
 	for !rl.WindowShouldClose() {
 		rl.BeginDrawing()
 
-	for i:i32=0;i<cols;i+=1 {
-	    for j:i32=0;j<rows;j+=1 {
-	    	x:i32= i * w
-	    	y:i32= j * w
-		rl.DrawRectangleLines(x, y, x+w, y+w, rl.DARKBLUE)
+	for i in 0..<cols {
+	    for j in 0..<rows {
+                rl.DrawLine(i, j, rl.BLACK)
+                rl.DrawLine(i+w, j+w, rl.BLACK)
 	    }
 	}
 
