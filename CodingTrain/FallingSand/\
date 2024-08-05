@@ -1,0 +1,21 @@
+package main
+
+import "core:fmt"
+import rl "vendor:raylib"
+
+make2DArray :: proc(cols: int, rows: int) -> matrix:int {
+	    return matrix[cols, rows]int
+}
+
+main :: proc() {
+	rl.InitWindow(600, 400, "Falling Sand")
+
+	for !rl.WindowShouldClose() {
+		rl.BeginDrawing()
+
+		rl.ClearBackground(rl.RAYWHITE)
+		rl.EndDrawing()
+	}
+
+	rl.CloseWindow()
+}
