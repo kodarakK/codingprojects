@@ -17,19 +17,16 @@ main :: proc() {
 	for i in 0..<cols {
 	    for j in 0..<rows {
 	    	grid[i][j] = 0
-                fmt.println(i*w, j*w, i*w+w, j*w+w)
 	    }
 	}
 
 	for !rl.WindowShouldClose() {
 		rl.BeginDrawing()
 
-	for i in 0..<cols {
-	    for j in 0..<rows {
-                rl.DrawLine(i, j, rl.BLACK)
-                rl.DrawLine(i+w, j+w, rl.BLACK)
-	    }
-	}
+
+            for i in 0..<cols {
+                rl.DrawLine(0, i*w, 0, WindowHeight, rl.BLACK)
+            }
 
 
 		rl.ClearBackground(rl.RAYWHITE)
