@@ -1,0 +1,16 @@
+package main
+
+import "core:fmt"
+import "core:math/rand"
+import rl "vendor:raylib"
+
+ASTEROID_SPEED_MIN :: 100
+ASTEROID_SPEED_MAX :: 225
+MAX_ASTEROIDS :: 64
+ASTEROID_ROT_SPEED_MIN: i32 : 5
+ASTEROID_ROT_SPEED_MAX: i32 : 240
+ASTERIOD_LIFE: f32 : 10.0
+ASTERIOD_DELAY: f32 : 0.75
+ASTEROID_RANDOM_ANGLE: f32 : 20 * rl.DEG2RAD
+NEARBLACK: rl.Color : {15, 15, 15, 255}
+PLAYER_ROT_SPEED: int : 360
