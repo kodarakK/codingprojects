@@ -6,7 +6,7 @@ import rl "vendor:raylib"
 
 _player: Player = {
 	position = screenCenter,
-	rotation = 0, 
+	rotation = 180, 
 	velocity = {0, 0},
 }
 
@@ -14,6 +14,8 @@ _player: Player = {
 main :: proc() {
 	rl.InitWindow(screenWidth, screenHeight, "Raylib Astereoids by CCR")
 	defer rl.CloseWindow()
+
+	rl.SetTargetFPS(60)
 
 	for !rl.WindowShouldClose() {
 		UpdateDrawFrame()

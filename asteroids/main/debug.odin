@@ -13,6 +13,10 @@ _showAsteroidCount: bool = false
 line0: [2]rl.Vector2
 line1: [2]rl.Vector2
 
+_playerPosition: rl.Vector2 = {0, 0}
+_playerVelocity: rl.Vector2 = {0, 0}
+_playerRotation: rl.Vector2 = {0, 0}
+
 //
 
 ShowDebugMenu :: proc() {
@@ -75,6 +79,12 @@ SetLastCone :: proc(position: rl.Vector2, velocity: rl.Vector2) {
 
 	line1[0] = position
 	line1[1] = position + rl.Vector2Rotate(velocity * 10, ASTEROID_RANDOM_ANGLE)
+}
+
+SetPlayerInfo :: proc(position: rl.Vector2, velocity: rl.Vector2, rotation: f32) {
+	_playerPosition = position
+	_playerVelocity = velocity
+	_playerRotation = rotation
 }
 
 // 	if _showDebugMenu {
