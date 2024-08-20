@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0IPZSHjOf53rQdQjec7k3EDmO62vYHQV7Gt4OyT2UsdFi3z9z/xSCIXXDcMYMXN9nHAl5H4RBn6y/m1x6cm+Xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kodar\\programming\\codingprojects\\CodingTrain\\dragon_curve\\dragon_curve.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kodar\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\kodar\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
