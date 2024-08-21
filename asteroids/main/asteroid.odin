@@ -5,15 +5,7 @@ import "core:math/rand"
 import rl "vendor:raylib"
 
 // Asteroid stuff
-ASTEROID_SPEED_MIN :: 100
-ASTEROID_SPEED_MAX :: 225
-MAX_ASTEROIDS :: 64
-ASTEROID_ROT_SPEED_MIN: i32 : 5
-ASTEROID_ROT_SPEED_MAX: i32 : 240
-ASTERIOD_LIFE: f32 : 10.0
-ASTERIOD_DELAY: f32 : 0.75
-ASTEROID_RANDOM_ANGLE: f32 : 20 * rl.DEG2RAD
-NEARBLACK: rl.Color : {15, 15, 15, 255}
+
 _asteroids: [MAX_ASTEROIDS]Asteroid
 _lastAsteriodCreationTime: f32 = -1.0
 _sizes := [3]AsteroidSize {
@@ -25,17 +17,6 @@ _sizes := [3]AsteroidSize {
 screenWidth: i32 : 600
 screenHeight: i32 : 600
 screenCenter :: rl.Vector2{cast(f32)screenWidth / 2, cast(f32)screenHeight / 2}
-
-// DEBUG
-_showDebugMenu: bool = false
-_showDebugAngle: bool = false
-_showAsteroidCount: bool = false
-
-line0: [2]rl.Vector2
-line1: [2]rl.Vector2
-
-//
-
 
 AsteroidSize :: enum {
 	ASTEROID_SMALL  = 1,
@@ -71,19 +52,20 @@ CreateAsteroid :: proc(
 	return asteroid
 }
 
-AsteroidUpdate :: proc(asteroid: ^Asteroid, frametime: f32, time: f32) {
+AsteroidUpdate :: proc(asteroid: ^Asteroid, frametime: f32, time: f32) -> bool{
 	if !asteroid.active {
-		return
+		return false
 	}
 
 	if time > asteroid.creationTime + ASTERIOD_LIFE {
 		asteroid.active = false
-		return
+		return false 
 	}
-
 
 	asteroid.position = asteroid.position + (asteroid.velocity * frametime)
 	asteroid.rotation += asteroid.rotationSpeed * frametime
+
+	return true
 }
 
 AsteroidDraw :: proc(asteroid: Asteroid) {
@@ -108,13 +90,7 @@ AddAsteroid :: proc(position: rl.Vector2, velocity: rl.Vector2, size: AsteroidSi
 		rl.Vector2Normalize(velocity) *
 		cast(f32)rl.GetRandomValue(ASTEROID_SPEED_MIN, ASTEROID_SPEED_MAX)
 
-	if _showDebugAngle {
-		line0[0] = position
-		line1[0] = position
-
-		line0[1] = position + rl.Vector2Rotate(velocity * 10, -ASTEROID_RANDOM_ANGLE)
-		line1[1] = position + rl.Vector2Rotate(velocity * 10, ASTEROID_RANDOM_ANGLE)
-	}
+	
 	velocity = rl.Vector2Rotate(
 		velocity,
 		cast(f32)rand.float32_range(-ASTEROID_RANDOM_ANGLE, ASTEROID_RANDOM_ANGLE),
@@ -160,3 +136,33 @@ GetNextAsteroidPosition :: proc() -> rl.Vector2 {
 	return result
 }
 
+DrawAsteroids :: proc() {
+	for i in 0 ..< MAX_ASTEROIDS {
+		AsteroidDraw(_asteroids[i])
+	}
+}
+
+UpdateAsteroids :: proc() -> int{
+	activeAsteroids: int = 0
+
+	frametime: f32 = rl.GetFrameTime()
+	time: f32 = cast(f32)rl.GetTime()
+
+	for i in 0 ..< MAX_ASTEROIDS {
+		if AsteroidUpdate(&_asteroids[i], frametime, time) {
+			activeAsteroids += 1
+		}
+	}
+
+	if time > _lastAsteriodCreationTime + ASTERIOD_DELAY {
+
+		nextSize: AsteroidSize = _sizes[rl.GetRandomValue(0, 2)]
+
+		AddAsteroid(GetNextAsteroidPosition(), cast(rl.Vector2){200, 0}, nextSize)
+
+		_lastAsteriodCreationTime = time
+	}
+
+	return activeAsteroids
+
+}
