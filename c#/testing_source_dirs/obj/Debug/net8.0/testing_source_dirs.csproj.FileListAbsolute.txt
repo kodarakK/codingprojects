@@ -1,0 +1,15 @@
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\bin\Debug\net8.0\testing_source_dirs.exe
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\bin\Debug\net8.0\testing_source_dirs.deps.json
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\bin\Debug\net8.0\testing_source_dirs.runtimeconfig.json
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\bin\Debug\net8.0\testing_source_dirs.dll
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\bin\Debug\net8.0\testing_source_dirs.pdb
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\obj\Debug\net8.0\testing_source_dirs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\obj\Debug\net8.0\testing_source_dirs.AssemblyInfoInputs.cache
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\obj\Debug\net8.0\testing_source_dirs.AssemblyInfo.cs
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\obj\Debug\net8.0\testing_source_dirs.csproj.CoreCompileInputs.cache
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\obj\Debug\net8.0\testing_source_dirs.sourcelink.json
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\obj\Debug\net8.0\testing_source_dirs.dll
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\obj\Debug\net8.0\refint\testing_source_dirs.dll
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\obj\Debug\net8.0\testing_source_dirs.pdb
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\obj\Debug\net8.0\testing_source_dirs.genruntimeconfig.cache
+C:\Users\kodar\programming\codingprojects\c#\testing_source_dirs\obj\Debug\net8.0\ref\testing_source_dirs.dll
