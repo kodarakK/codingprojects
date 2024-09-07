@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dragon_curve")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+216d2b2f7bcc5b68242ee8455ad7dbd0718594dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ebd53f530bcd4a19b8e617eebafeeacd793aa68")]
 [assembly: System.Reflection.AssemblyProductAttribute("dragon_curve")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dragon_curve")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
