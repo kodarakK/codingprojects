@@ -1,0 +1,10 @@
+body {
+    background-image: url("Naamloos.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img2 {
+    background-image: url("roshach.png");
+    mix-blend-mode: screen;
+}
