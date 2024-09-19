@@ -83,9 +83,7 @@ export default class ActiviteitComponent {
       note.appendChild(btn);
 
       const text = document.createTextNode(
-        `${a.title}: ${a.info} | ${a.date} ${
-          this.#months[a.date.getMonth()]
-        } `
+        `${a.title}: ${a.info} | ${a.date} ${this.#months[a.date.getMonth()]} `
       );
       note.appendChild(text);
 
@@ -97,7 +95,7 @@ export default class ActiviteitComponent {
     this.#activiteiten = [];
     let activiteitenAlsJson;
     try {
-      const response = await fetch("./file/data.json");
+      const response = await fetch("./file/calendar.json");
       if (!response.ok) throw new Error(`fout: ${response.status}`);
       activiteitenAlsJson = await response.json();
     } catch (error) {
