@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VCARsYgvLHZTu75sdkkbbTzbhkpkN4hsVH019rOQ+npx/vk/+yUXig0nQ3IwX0Ip+XAvFb5VNGGVe1ABRnqUVg==",
+  "success": true,
+  "projectFilePath": "/home/dwagon/CodingProjects/codingprojects/c#1/test/test.csproj",
+  "expectedPackageFiles": [
+    "/home/dwagon/.nuget/packages/raylib-cs/6.1.1/raylib-cs.6.1.1.nupkg.sha512",
+    "/home/dwagon/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/home/dwagon/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

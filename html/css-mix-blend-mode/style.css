@@ -6,5 +6,5 @@ body {
 
 .img2 {
     background-image: url("roshach.png");
-    mix-blend-mode: screen;
+    mix-blend-mode: multiply;
 }

@@ -75,7 +75,6 @@ Node *insertNode(int data, int pos)
 		printf("Requested position too far into list\n");
 		return NULL;
 	}
-
 	Node *new = malloc(sizeof(Node));
 	if (new == NULL) 
 	{

@@ -1,0 +1,6 @@
+/home/dwagon/CodingProjects/codingprojects/c#1/test/obj/Debug/net8.0/test.csproj.AssemblyReference.cache
+/home/dwagon/CodingProjects/codingprojects/c#1/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/dwagon/CodingProjects/codingprojects/c#1/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/home/dwagon/CodingProjects/codingprojects/c#1/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/home/dwagon/CodingProjects/codingprojects/c#1/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/home/dwagon/CodingProjects/codingprojects/c#1/test/obj/Debug/net8.0/test.sourcelink.json
