@@ -25,9 +25,9 @@ main :: proc() {
 	for !rl.WindowShouldClose() {
 		rl.BeginDrawing()
 		defer rl.EndDrawing()
-            for i in 0..<cols {
-                rl.DrawLine(0, i*w, 0, WindowHeight, rl.BLACK)
-            }
+		for i in 0..<cols {
+			rl.DrawLine(0, i*w, 0, WindowHeight, rl.BLACK)
+		}
 	}
 
 }
