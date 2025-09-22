@@ -67,21 +67,21 @@ void animate(SDL_Window *pwindow, SDL_Surface *psurface, double time) {
   for ( int x = 0; x < WIDTH; x++) {
     for ( int y = 0; y < HEIGHT; y++) {
       SDL_Rect rect = (SDL_Rect) {x, y, 1, 1};
-      /*  h = fmod(sin(x*y), 360); */
+       /* h = fmod(sin(x*y), 360); */
       /*  h = sin(x) * sin(y); */
       /*  h = 360*sin(x) * sin(y)+180; */
       /*  x_s = fmod(x, 360); */
       /*  y_s = fmod(y, 360); */
       /*  h = 360*sin(x_s/100)*sin(y_s/100)+180; */
-      /*  h = 360*sin((double) 2*M_PI/WIDTH*x)+180; */
-      /*  h = 180 * sin(x/(double)WIDTH) + 180; */
+       /* h = 360*sin((double) 2*M_PI/WIDTH*x)+180; */
+       /* h = 360 * sin(x/(double)WIDTH+time); */
       /* h = fabs(360*sin(M_PI/2*(double)x*(double)y/(double)WIDTH+time)); */
-      /* hx = sin(4*M_PI/2*(double)x/(double)WIDTH+time); */
-      /* hy = sin(4*M_PI/2*(double)y/(double)WIDTH+time); */
-      /* h = fabs(360 * hx * hy); */
-      hx = sin(2*M_PI/2*(double)x/(double)WIDTH+time);
-      hy = sin(2*M_PI/2*(double)y/(double)WIDTH+time);
+      hx = sin(4*M_PI/2*(double)x/(double)WIDTH+time);
+      hy = sin(4*M_PI/2*(double)y/(double)WIDTH+time);
       h = fabs(360 * hx * hy);
+      /* hx = sin(2*M_PI/2*(double)x/(double)WIDTH+time); */
+      /* hy = sin(2*M_PI/2*(double)y/(double)WIDTH+time); */
+      /* h = fabs(360 * hx * hy); */
       
       Uint32 rgb = rgb_from_hsl(pformat, h, s, l);
       SDL_FillRect(psurface, &rect, rgb);
