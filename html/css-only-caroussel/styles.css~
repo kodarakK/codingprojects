@@ -1,0 +1,22 @@
+root {
+    --primary-color: #04060C;
+    --background-color: #000000;
+}
+.body {
+    background-color: var(--background-color);
+    color: red;
+}
+.carousel {
+    margin: 3em auto;
+    display: flex;
+    gap: 1em;
+}
+.card {
+    flex: 0 0 20em;
+    height: 12em;
+    background-color: var(--primary-color);
+    padding: 1em;
+    border-radius: .5em;
+    text-align: center;
+    align-content: center;
+}
