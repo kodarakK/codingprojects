@@ -1,0 +1,68 @@
+class Node:
+  def __init__(self, data=None, next_node=None):
+    self.data = data
+    self.next = next_node
+def print_list(head):
+  items = [head.data] if head else []
+  curr = head
+  ### BEGIN JOUW CODE
+  while curr and curr.next:
+    curr = curr.next
+    items.append(curr.data)
+  ### EINDE JOUW CODE
+  print("[" + ",".join(str(_) for _ in items) + "]")
+def merge(head_1, head_2):
+  a = head_1
+  b = head_2
+  head = Node()
+  ptr = head
+  while a and b:
+    for _ in range(3):
+      if a.data <= b.data:
+        ptr.next = a
+        ptr = ptr.next
+        a = a.next
+      else:
+        ptr.next = b
+        ptr = ptr.next
+        b = b.next
+  while b:
+    ptr.next = b
+    ptr = ptr.next
+    b = b.next
+  while a:
+    ptr.next = a
+    ptr = ptr.next
+    a = a.next
+  return head.next
+def length(head):
+  count=0
+  ptr = head
+  while ptr:
+    count+=1
+    ptr = ptr.next
+  return count
+def ptr_half(head):
+  ptr = head
+  for _ in range(int(length(ptr)/2)-1):
+    ptr = ptr.next
+  return ptr
+def split(head):
+  ptr = head
+  count = length(ptr)
+  ptr = ptr_half(ptr)
+  temp = ptr.next
+  ptr.next = None
+  return (head,temp)
+def merge_sort(head):
+  a,b = split(head)
+  if head and head.next:
+    a = merge_sort(a)
+    b = merge_sort(b)
+  return merge(a,b)
+head_1 = Node(4, Node(6, Node(3)))
+head_2 = Node(2, Node(1, Node(5, Node(7))))
+head = merge(head_2, head_1)
+print_list(head)
+sorted_head = merge_sort(head)
+print_list(sorted_head) 

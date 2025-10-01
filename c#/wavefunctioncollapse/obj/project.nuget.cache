@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HpeDeEsF7HxfpMwx9RT9DreIcHm4fFP2O/EytN7QVEp3HbUiVnlwxilChexN0v8Gqtg4sGgqKNCHEJjKnm9l8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kodar\\programming\\codingprojects\\c#\\wavefunctioncollapse\\wavefunctioncollapse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kodar\\.nuget\\packages\\raylib-cs\\7.0.0\\raylib-cs.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

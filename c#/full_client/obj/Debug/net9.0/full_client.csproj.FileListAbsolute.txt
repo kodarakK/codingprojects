@@ -1,0 +1,15 @@
+C:\Users\kodar\programming\codingprojects\c#\full_client\bin\Debug\net9.0\full_client.exe
+C:\Users\kodar\programming\codingprojects\c#\full_client\bin\Debug\net9.0\full_client.deps.json
+C:\Users\kodar\programming\codingprojects\c#\full_client\bin\Debug\net9.0\full_client.runtimeconfig.json
+C:\Users\kodar\programming\codingprojects\c#\full_client\bin\Debug\net9.0\full_client.dll
+C:\Users\kodar\programming\codingprojects\c#\full_client\bin\Debug\net9.0\full_client.pdb
+C:\Users\kodar\programming\codingprojects\c#\full_client\obj\Debug\net9.0\full_client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodar\programming\codingprojects\c#\full_client\obj\Debug\net9.0\full_client.AssemblyInfoInputs.cache
+C:\Users\kodar\programming\codingprojects\c#\full_client\obj\Debug\net9.0\full_client.AssemblyInfo.cs
+C:\Users\kodar\programming\codingprojects\c#\full_client\obj\Debug\net9.0\full_client.csproj.CoreCompileInputs.cache
+C:\Users\kodar\programming\codingprojects\c#\full_client\obj\Debug\net9.0\full_client.sourcelink.json
+C:\Users\kodar\programming\codingprojects\c#\full_client\obj\Debug\net9.0\full_client.dll
+C:\Users\kodar\programming\codingprojects\c#\full_client\obj\Debug\net9.0\refint\full_client.dll
+C:\Users\kodar\programming\codingprojects\c#\full_client\obj\Debug\net9.0\full_client.pdb
+C:\Users\kodar\programming\codingprojects\c#\full_client\obj\Debug\net9.0\full_client.genruntimeconfig.cache
+C:\Users\kodar\programming\codingprojects\c#\full_client\obj\Debug\net9.0\ref\full_client.dll

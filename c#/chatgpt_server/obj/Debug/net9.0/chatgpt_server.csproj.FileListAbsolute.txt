@@ -1,0 +1,15 @@
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\bin\Debug\net9.0\chatgpt_server.exe
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\bin\Debug\net9.0\chatgpt_server.deps.json
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\bin\Debug\net9.0\chatgpt_server.runtimeconfig.json
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\bin\Debug\net9.0\chatgpt_server.dll
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\bin\Debug\net9.0\chatgpt_server.pdb
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\obj\Debug\net9.0\chatgpt_server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\obj\Debug\net9.0\chatgpt_server.AssemblyInfoInputs.cache
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\obj\Debug\net9.0\chatgpt_server.AssemblyInfo.cs
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\obj\Debug\net9.0\chatgpt_server.csproj.CoreCompileInputs.cache
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\obj\Debug\net9.0\chatgpt_server.sourcelink.json
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\obj\Debug\net9.0\chatgpt_server.dll
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\obj\Debug\net9.0\refint\chatgpt_server.dll
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\obj\Debug\net9.0\chatgpt_server.pdb
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\obj\Debug\net9.0\chatgpt_server.genruntimeconfig.cache
+C:\Users\kodar\programming\codingprojects\c#\chatgpt_server\obj\Debug\net9.0\ref\chatgpt_server.dll

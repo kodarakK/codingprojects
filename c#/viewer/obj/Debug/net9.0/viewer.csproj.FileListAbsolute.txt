@@ -1,0 +1,15 @@
+C:\Users\kodar\programming\codingprojects\c#\viewer\bin\Debug\net9.0\viewer.exe
+C:\Users\kodar\programming\codingprojects\c#\viewer\bin\Debug\net9.0\viewer.deps.json
+C:\Users\kodar\programming\codingprojects\c#\viewer\bin\Debug\net9.0\viewer.runtimeconfig.json
+C:\Users\kodar\programming\codingprojects\c#\viewer\bin\Debug\net9.0\viewer.dll
+C:\Users\kodar\programming\codingprojects\c#\viewer\bin\Debug\net9.0\viewer.pdb
+C:\Users\kodar\programming\codingprojects\c#\viewer\obj\Debug\net9.0\viewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodar\programming\codingprojects\c#\viewer\obj\Debug\net9.0\viewer.AssemblyInfoInputs.cache
+C:\Users\kodar\programming\codingprojects\c#\viewer\obj\Debug\net9.0\viewer.AssemblyInfo.cs
+C:\Users\kodar\programming\codingprojects\c#\viewer\obj\Debug\net9.0\viewer.csproj.CoreCompileInputs.cache
+C:\Users\kodar\programming\codingprojects\c#\viewer\obj\Debug\net9.0\viewer.sourcelink.json
+C:\Users\kodar\programming\codingprojects\c#\viewer\obj\Debug\net9.0\viewer.dll
+C:\Users\kodar\programming\codingprojects\c#\viewer\obj\Debug\net9.0\refint\viewer.dll
+C:\Users\kodar\programming\codingprojects\c#\viewer\obj\Debug\net9.0\viewer.pdb
+C:\Users\kodar\programming\codingprojects\c#\viewer\obj\Debug\net9.0\viewer.genruntimeconfig.cache
+C:\Users\kodar\programming\codingprojects\c#\viewer\obj\Debug\net9.0\ref\viewer.dll

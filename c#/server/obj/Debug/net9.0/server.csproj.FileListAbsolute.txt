@@ -1,0 +1,15 @@
+C:\Users\kodar\programming\codingprojects\c#\server\bin\Debug\net9.0\server.exe
+C:\Users\kodar\programming\codingprojects\c#\server\bin\Debug\net9.0\server.deps.json
+C:\Users\kodar\programming\codingprojects\c#\server\bin\Debug\net9.0\server.runtimeconfig.json
+C:\Users\kodar\programming\codingprojects\c#\server\bin\Debug\net9.0\server.dll
+C:\Users\kodar\programming\codingprojects\c#\server\bin\Debug\net9.0\server.pdb
+C:\Users\kodar\programming\codingprojects\c#\server\obj\Debug\net9.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kodar\programming\codingprojects\c#\server\obj\Debug\net9.0\server.AssemblyInfoInputs.cache
+C:\Users\kodar\programming\codingprojects\c#\server\obj\Debug\net9.0\server.AssemblyInfo.cs
+C:\Users\kodar\programming\codingprojects\c#\server\obj\Debug\net9.0\server.csproj.CoreCompileInputs.cache
+C:\Users\kodar\programming\codingprojects\c#\server\obj\Debug\net9.0\server.sourcelink.json
+C:\Users\kodar\programming\codingprojects\c#\server\obj\Debug\net9.0\server.dll
+C:\Users\kodar\programming\codingprojects\c#\server\obj\Debug\net9.0\refint\server.dll
+C:\Users\kodar\programming\codingprojects\c#\server\obj\Debug\net9.0\server.pdb
+C:\Users\kodar\programming\codingprojects\c#\server\obj\Debug\net9.0\server.genruntimeconfig.cache
+C:\Users\kodar\programming\codingprojects\c#\server\obj\Debug\net9.0\ref\server.dll
