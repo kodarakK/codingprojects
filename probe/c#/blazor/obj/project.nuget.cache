@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Htz2ALG8Azk=",
+  "success": true,
+  "projectFilePath": "/home/fluffy_dwagon/codingprojects/probe/c#/blazor/blazor.csproj",
+  "expectedPackageFiles": [
+    "/home/fluffy_dwagon/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

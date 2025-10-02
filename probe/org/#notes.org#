@@ -1,0 +1,15 @@
+#+begin_src jupyter-python :session py
+  print("hellorld")
+  a = 5
+#+end_src
+
+#+RESULTS:
+: hellorld
+
+
+#+begin_src jupyter-python :session py
+  print(a)
+#+end_src
+
+#+RESULTS:
+: 5
