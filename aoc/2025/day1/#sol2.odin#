@@ -1,0 +1,88 @@
+package main
+
+import "core:os"
+import "core:strings"
+import "core:strconv"
+import "core:fmt"
+import "core:math"
+
+MOD_NUM :: 100
+
+mod :: proc(n: int) -> int {
+    return ((n % MOD_NUM) + MOD_NUM) % MOD_NUM
+}
+
+read_full_file :: proc(filepath: string) -> []u8 {
+    data, ok := os.read_entire_file(filepath, context.allocator)
+    if !ok { fmt.println("error")}
+    return data
+}
+rotate :: proc(dir: string, n: int, l: int, c: int) -> (int, int) {
+    lock := l
+    counter: int = c
+    if strings.compare(dir, "L") == 0 {
+        // lock = mod(lock - n)
+        for i := 0; i < n; i += 1 {
+            lock -= 1
+            lock = mod(lock)
+            if lock == 0 {
+                counter += 1
+            }
+
+        }
+    }
+    else {
+        // lock = mod(lock + n)
+        for i := 0; i < n; i += 1 {
+            lock += 1
+
+            lock = mod(lock)
+            if lock == 0 {
+                counter += 1
+            }
+
+        }
+    }
+
+    return lock, counter
+}
+
+execute :: proc() {
+    data := string(read_full_file("./input.txt"))
+
+    lock: int = 50
+    count: int = 0
+    counter2: int = 0
+
+    for line in strings.split_lines_iterator(&data){
+        sub, _   : = strings.substring_to(line, 1)
+        n, _     := strings.substring_from(line, 1)
+        n_int, _ := strconv.parse_int(n)
+        lock, counter3 := rotate(sub, n_int, lock, counter2)
+        counter2 = counter3
+        if lock == 0 { count += 1 }
+    }
+    
+    fmt.printf("count zero eindigen: %d\ncounter zero overgaan: %d", count, counter2)
+}
+executeAI :: proc() {
+    data := string(read_full_file("./input.txt"))
+
+    lock: int = 50
+    counter: int = 0   // total 0-count
+
+    for line in strings.split_lines_iterator(&data) {
+        sub, _   := strings.substring_to(line, 1)
+        n, _     := strings.substring_from(line, 1)
+        n_int, _ := strconv.parse_int(n)
+
+        lock, counter = rotate(sub, n_int, lock, counter)
+    }
+
+    fmt.printf("total zero crossings: %d\n", counter)
+}
+
+
+main :: proc() {
+    executeAI()
+}

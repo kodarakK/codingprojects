@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qW+gJi1jyWo=",
+  "dgSpecHash": "JGvVDQCfNPw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kodar\\programming\\codingprojects\\c#\\chatgpt_server\\chatgpt_server.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/fluffy_dwagon/codingprojects/c#/chatgpt_server/chatgpt_server.csproj",
+  "expectedPackageFiles": [
+    "/home/fluffy_dwagon/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }

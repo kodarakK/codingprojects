@@ -8,32 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kodar\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/fluffy_dwagon/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kodar\\programming\\codingprojects\\c#\\chatgpt_client\\chatgpt_client.csproj",
+      "projectUniqueName": "/home/fluffy_dwagon/codingprojects/c#/chatgpt_client/chatgpt_client.csproj",
       "projectName": "chatgpt_client",
-      "projectPath": "C:\\Users\\kodar\\programming\\codingprojects\\c#\\chatgpt_client\\chatgpt_client.csproj",
-      "packagesPath": "C:\\Users\\kodar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kodar\\programming\\codingprojects\\c#\\chatgpt_client\\obj\\",
+      "projectPath": "/home/fluffy_dwagon/codingprojects/c#/chatgpt_client/chatgpt_client.csproj",
+      "packagesPath": "/home/fluffy_dwagon/.nuget/packages/",
+      "outputPath": "/home/fluffy_dwagon/codingprojects/c#/chatgpt_client/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\kodar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/fluffy_dwagon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -52,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net9.0": {
@@ -68,12 +60,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[9.0.9, 9.0.9]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
