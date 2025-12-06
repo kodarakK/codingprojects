@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("chatgpt_client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f56321c3557953c840abd84c9ae3bb9be2b0b6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a684b3d99dc130ad5044fbfc7c567e96d235e7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("chatgpt_client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("chatgpt_client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

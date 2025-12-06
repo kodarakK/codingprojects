@@ -35,6 +35,7 @@ class ChatServer
             using StreamWriter writer = new(client.GetStream()) { AutoFlush = true };
 
             // Eerste regel = naam
+            Console.WriteLine("naam: ");
             clientName = reader.ReadLine();
             if (string.IsNullOrWhiteSpace(clientName))
             {
