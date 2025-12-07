@@ -24,12 +24,7 @@ convert_str_to_int_dyn_array :: proc(arr: [dynamic]string) -> [dynamic]int {
 is_invalid :: proc (el: int) -> bool {
     // // chop in halve, check if same => valid id, not good for part 2
     number: string = fmt.tprint(el)
-    // midden: int = len(number) / 2
-    // slice_l: string = number[:midden]
-    // slice_r: string = number[midden:]
-    // // fmt.printf("%s\t%s\n", slice_l, slice_r)
-    // return slice_l == slice_r
-
+    
     // check hoeveel keer een char voorkomt
 }
 
