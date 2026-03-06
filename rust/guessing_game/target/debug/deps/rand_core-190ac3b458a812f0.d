@@ -1,0 +1,11 @@
+C:\Users\kodar\programming\codingprojects\rust\guessing_game\target\debug\deps\librand_core-190ac3b458a812f0.rmeta: C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\lib.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\block.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\impls.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\le.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\os.rs
+
+C:\Users\kodar\programming\codingprojects\rust\guessing_game\target\debug\deps\librand_core-190ac3b458a812f0.rlib: C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\lib.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\block.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\impls.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\le.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\os.rs
+
+C:\Users\kodar\programming\codingprojects\rust\guessing_game\target\debug\deps\rand_core-190ac3b458a812f0.d: C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\lib.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\block.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\impls.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\le.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\os.rs
+
+C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\lib.rs:
+C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\block.rs:
+C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\impls.rs:
+C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\le.rs:
+C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\rand_core-0.9.5\src\os.rs:

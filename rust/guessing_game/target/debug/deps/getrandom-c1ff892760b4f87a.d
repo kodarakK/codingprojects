@@ -1,0 +1,11 @@
+C:\Users\kodar\programming\codingprojects\rust\guessing_game\target\debug\deps\libgetrandom-c1ff892760b4f87a.rmeta: C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\lib.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\error.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\util.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\error_impls.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\windows.rs
+
+C:\Users\kodar\programming\codingprojects\rust\guessing_game\target\debug\deps\libgetrandom-c1ff892760b4f87a.rlib: C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\lib.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\error.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\util.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\error_impls.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\windows.rs
+
+C:\Users\kodar\programming\codingprojects\rust\guessing_game\target\debug\deps\getrandom-c1ff892760b4f87a.d: C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\lib.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\error.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\util.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\error_impls.rs C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\windows.rs
+
+C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\lib.rs:
+C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\error.rs:
+C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\util.rs:
+C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\error_impls.rs:
+C:\Users\kodar\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.17\src\windows.rs:

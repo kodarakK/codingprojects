@@ -1,0 +1,13 @@
+namespace Domain {
+	public class Kat : IDier {
+		public Kat(string naam) {
+			this.naam = naam;
+		}
+#region properties
+		string naam {get;}
+#endregion
+		public void MakeSound() {
+			Console.WriteLine("miauw");
+		}
+	}
+}
