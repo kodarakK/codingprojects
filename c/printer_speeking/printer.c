@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <sys/socket.h>
 
-#define PRINTER_IP "192.168.1.50"
+#define PRINTER_IP "192.168.1.47"
 #define PRINTER_PORT 9100
 
 int main()
@@ -22,11 +22,14 @@ int main()
 	}
 
 	const char *data =
-	      "\x1B" "E"
-              "Hellorld\n"
-              "\f";
+		"%!PS\n"
+		"/Helvetica findfont 24 scalefont setfont\n"
+		"100 700 moveto\n"
+		"(hellorld) show\n"
+		"showpage\n"
+		;
 
-	int result = send(sock, data, strlen(data), 0);
+	int result = send(sock, data, sizeof(data)-1, 0);
 	printf("result: %d\n", result);
 	printf("len data: %d\n", strlen(data));
 
