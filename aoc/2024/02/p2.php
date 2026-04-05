@@ -1,5 +1,4 @@
 <?php
-5y
 $file = file_get_contents("p1input.txt");
 $input = explode("\n", $file);
 $spacer = 5;
