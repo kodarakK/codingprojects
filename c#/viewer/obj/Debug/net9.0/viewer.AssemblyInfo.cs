@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("viewer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac4123a5d8145db06e63580daa1f7b17257bb530")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6737245a6d3c6954d780a1e991e6ba9cb71e995")]
 [assembly: System.Reflection.AssemblyProductAttribute("viewer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("viewer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

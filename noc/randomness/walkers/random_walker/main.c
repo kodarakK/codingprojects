@@ -3,6 +3,8 @@
 #include <time.h>
 #include <stdlib.h>
 #include <unistd.h>
+#include "raylib.h"
+#include <stdint.h>
 
 const int SCREEN_WIDTH = 512;
 const int SCREEN_HEIGHT = 512;
@@ -45,6 +47,7 @@ void update_walkers()
         }
     }
 }
+
 
 int main() 
 {
