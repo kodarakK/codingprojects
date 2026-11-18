@@ -1,0 +1,36 @@
+<!doctype html>
+<head>
+  <style>
+    .grid-item {
+	width: 100%;
+	border: 2px solid black;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	height: 7rem;
+	color: white;
+    }
+    .grid-container {
+	display: flex;
+	flex-wrap: wrap;
+	/* justify-content: center; */
+	/* align-items: center; */
+    }
+    .grid-container > div {
+	flex: 0 0 32%;
+    }
+  </style>
+</head>
+<body>
+  <div class="grid-container">
+    <div class="grid-item" style="background-color: purple">item1</div>
+    <div class="grid-item" style="background-color: black">item2</div>
+    <div class="grid-item" style="background-color: gray">item3</div>
+    <div class="grid-item" style="background-color: yellow">item4</div>
+    <div class="grid-item" style="background-color: orange">item5</div>
+    <div class="grid-item" style="background-color: lightgreen">item6</div>
+    <div class="grid-item" style="background-color: blue">item7</div>
+    <div class="grid-item" style="background-color: red">item8</div>
+    <div class="grid-item" style="background-color: green">item9</div>
+  </div>
+</body>

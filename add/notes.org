@@ -1,0 +1,40 @@
+* Website
+** paginas
+*** Welkom
+*** Wie zijn we
+ - missie / doel
+ - bestuur
+ - foto, functie, contact (mailadres)
+ - duikonderricht
+   - Foto & brevet
+     - opsplitsing jeugd en volwassen
+*** Training
+   - uurooster jeugd / volwassen
+     - Welke dag
+     - waar
+*** Opleiding
+ - jeugd
+   - uitleg dolfijnen
+   - aansluiting: wat zit er in
+   - verzekering
+ - volwassenen
+   - uitleg brevetten die we aanbieden
+   - aansluiting: wat zit er in
+   - verzekering
+   - eventueel: voorstellen reizen
+*** Open Water
+ - zeeland
+ - gavers
+ - steengroeven
+ - buitenland
+*** kalender
+ - posten van training, duiken, enz...
+ - leden inloggen en inschrijven (ticket kopen?)
+*** ledenportaal
+ - login / per lid
+ - lid & admin
+ - documenten plaatsen
+ - 
+*** registratie:
+
+aanvraag goedkeuren door admin
