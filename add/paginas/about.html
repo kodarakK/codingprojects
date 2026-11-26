@@ -11,6 +11,11 @@
 	padding: 1rem;
 	justify-content: space-evenly;
 	border-radius: 12px;
+	@media(max-width: 700px) {
+	    margin: 0px;
+	    border: none;
+	    
+	}
     }
 
     .item {
@@ -49,24 +54,30 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	background-image: url("./mpv-shot0001.jpg");
+	/* background-image: url("./mpv-shot0001.jpg"); */
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
-	heigth: 200px;
+	@media(min-width: 700px){
+	    color: white;
+	}
     }
 
     body {
-	background-image: url("./bg.jpg");
-	background-attachment: fixed;
-	background-repeat: no-repeat;
+	@media(min-width: 700px){
+	    background-image: url("./bg.jpg");
+	    background-attachment: fixed;
+	    background-repeat: no-repeat;
+	}
     }
     .main-body {
-	background-color: white;
-	margin: 10%;
-	border-radius: 12px;
-	margin-top: 170px;
 	padding: 5%;
+	@media(min-width: 700px){
+	    background-color: white;
+	    margin: 10%;
+	    border-radius: 12px;
+	    padding: 5%;
+	}
     }
   </style>
 </head>
@@ -74,166 +85,166 @@
   <main>
     <div class="top_background_img">
       <div>
-	<h2>Het bestuur & duikonderricht</h2>
+	<h1>Het bestuur & duikonderricht</h1>
       </div>
     </div>
     <section class="main-body">
-    <article>
-      <div class="title">
-	<h2>Missie</h2>
-      </div>
-      <p>Nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur? Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla? Enim nunc, faucibus a pellentesque sit amet, porttitor eget dolor morbi non arcu risus, quis varius quam quisque id. Tellus integer feugiat scelerisque varius morbi enim nunc, faucibus a pellentesque sit amet, porttitor eget dolor morbi non arcu risus, quis varius? Aenean et tortor at risus viverra adipiscing at in tellus integer feugiat scelerisque varius morbi enim nunc, faucibus a pellentesque sit.</p>
-    </article>
-    <section>
-      <div class="title">
-	<h2>Bestuur</h2>
-      </div>
-      <div class="container">
-	<div class="item">
-	  <div class="foto">
-	    <img src="./ppf.png" alt="ppf">
+      <article>
+	<div class="title">
+	  <h2>Missie</h2>
+	</div>
+	<p>Nulla at volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur? Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla? Enim nunc, faucibus a pellentesque sit amet, porttitor eget dolor morbi non arcu risus, quis varius quam quisque id. Tellus integer feugiat scelerisque varius morbi enim nunc, faucibus a pellentesque sit amet, porttitor eget dolor morbi non arcu risus, quis varius? Aenean et tortor at risus viverra adipiscing at in tellus integer feugiat scelerisque varius morbi enim nunc, faucibus a pellentesque sit.</p>
+      </article>
+      <section>
+	<div class="title">
+	  <h2>Bestuur</h2>
+	</div>
+	<div class="container">
+	  <div class="item">
+	    <div class="foto">
+	      <img src="./ppf.png" alt="ppf">
+	    </div>
+	    <div class="info">
+	      <div>naam</div>
+	      <div>brevet</div>
+	      <div>email</div>
+	    </div>
 	  </div>
-	  <div class="info">
-	    <div>naam</div>
-	    <div>brevet</div>
-	    <div>email</div>
+
+	  <div class="item">
+	    <div class="foto">
+	      <img src="./ppf.png" alt="ppf">
+	    </div>
+	    <div class="info">
+	      <div>naam</div>
+	      <div>brevet</div>
+	      <div>email</div>
+	    </div>
+	  </div>
+
+	  <div class="item">
+	    <div class="foto">
+	      <img src="./ppf.png" alt="ppf">
+	    </div>
+	    <div class="info">
+	      <div>naam</div>
+	      <div>brevet</div>
+	      <div>email</div>
+	    </div>
+	  </div>
+
+
+	  <div class="item">
+	    <div class="foto">
+	      <img src="./ppf.png" alt="ppf">
+	    </div>
+	    <div class="info">
+	      <div>naam</div>
+	      <div>brevet</div>
+	      <div>email</div>
+	    </div>
+	  </div>
+
+
+	  <div class="item">
+	    <div class="foto">
+	      <img src="./ppf.png" alt="ppf">
+	    </div>
+	    <div class="info">
+	      <div>naam</div>
+	      <div>brevet</div>
+	      <div>email</div>
+	    </div>
+	  </div>
+
+
+	  <div class="item">
+	    <div class="foto">
+	      <img src="./ppf.png" alt="ppf">
+	    </div>
+	    <div class="info">
+	      <div>naam</div>
+	      <div>brevet</div>
+	      <div>email</div>
+	    </div>
 	  </div>
 	</div>
-
-	<div class="item">
-	  <div class="foto">
-	    <img src="./ppf.png" alt="ppf">
+      </section>
+      <section>
+	<div class="title">
+	  <h2>Duikonderricht</h2>
+	</div>
+	<div class="container">
+	  <div class="item">
+	    <div class="foto">
+	      <img src="./ppf.png" alt="ppf">
+	    </div>
+	    <div class="info">
+	      <div>naam</div>
+	      <div>brevet</div>
+	      <div>email</div>
+	    </div>
 	  </div>
-	  <div class="info">
-	    <div>naam</div>
-	    <div>brevet</div>
-	    <div>email</div>
+
+	  <div class="item">
+	    <div class="foto">
+	      <img src="./ppf.png" alt="ppf">
+	    </div>
+	    <div class="info">
+	      <div>naam</div>
+	      <div>brevet</div>
+	      <div>email</div>
+	    </div>
+	  </div>
+
+	  <div class="item">
+	    <div class="foto">
+	      <img src="./ppf.png" alt="ppf">
+	    </div>
+	    <div class="info">
+	      <div>naam</div>
+	      <div>brevet</div>
+	      <div>email</div>
+	    </div>
+	  </div>
+
+
+	  <div class="item">
+	    <div class="foto">
+	      <img src="./ppf.png" alt="ppf">
+	    </div>
+	    <div class="info">
+	      <div>naam</div>
+	      <div>brevet</div>
+	      <div>email</div>
+	    </div>
+	  </div>
+
+
+	  <div class="item">
+	    <div class="foto">
+	      <img src="./ppf.png" alt="ppf">
+	    </div>
+	    <div class="info">
+	      <div>naam</div>
+	      <div>brevet</div>
+	      <div>email</div>
+	    </div>
+	  </div>
+
+
+	  <div class="item">
+	    <div class="foto">
+	      <img src="./ppf.png" alt="ppf">
+	    </div>
+	    <div class="info">
+	      <div>naam</div>
+	      <div>brevet</div>
+	      <div>email</div>
+	    </div>
 	  </div>
 	</div>
-
-	<div class="item">
-	  <div class="foto">
-	    <img src="./ppf.png" alt="ppf">
-	  </div>
-	  <div class="info">
-	    <div>naam</div>
-	    <div>brevet</div>
-	    <div>email</div>
-	  </div>
-	</div>
-
-
-	<div class="item">
-	  <div class="foto">
-	    <img src="./ppf.png" alt="ppf">
-	  </div>
-	  <div class="info">
-	    <div>naam</div>
-	    <div>brevet</div>
-	    <div>email</div>
-	  </div>
-	</div>
-
-
-	<div class="item">
-	  <div class="foto">
-	    <img src="./ppf.png" alt="ppf">
-	  </div>
-	  <div class="info">
-	    <div>naam</div>
-	    <div>brevet</div>
-	    <div>email</div>
-	  </div>
-	</div>
-
-
-	<div class="item">
-	  <div class="foto">
-	    <img src="./ppf.png" alt="ppf">
-	  </div>
-	  <div class="info">
-	    <div>naam</div>
-	    <div>brevet</div>
-	    <div>email</div>
-	  </div>
-	</div>
-      </div>
-    </section>
-    <section>
-      <div class="title">
-	<h2>Duikonderricht</h2>
-      </div>
-      <div class="container">
-	<div class="item">
-	  <div class="foto">
-	    <img src="./ppf.png" alt="ppf">
-	  </div>
-	  <div class="info">
-	    <div>naam</div>
-	    <div>brevet</div>
-	    <div>email</div>
-	  </div>
-	</div>
-
-	<div class="item">
-	  <div class="foto">
-	    <img src="./ppf.png" alt="ppf">
-	  </div>
-	  <div class="info">
-	    <div>naam</div>
-	    <div>brevet</div>
-	    <div>email</div>
-	  </div>
-	</div>
-
-	<div class="item">
-	  <div class="foto">
-	    <img src="./ppf.png" alt="ppf">
-	  </div>
-	  <div class="info">
-	    <div>naam</div>
-	    <div>brevet</div>
-	    <div>email</div>
-	  </div>
-	</div>
-
-
-	<div class="item">
-	  <div class="foto">
-	    <img src="./ppf.png" alt="ppf">
-	  </div>
-	  <div class="info">
-	    <div>naam</div>
-	    <div>brevet</div>
-	    <div>email</div>
-	  </div>
-	</div>
-
-
-	<div class="item">
-	  <div class="foto">
-	    <img src="./ppf.png" alt="ppf">
-	  </div>
-	  <div class="info">
-	    <div>naam</div>
-	    <div>brevet</div>
-	    <div>email</div>
-	  </div>
-	</div>
-
-
-	<div class="item">
-	  <div class="foto">
-	    <img src="./ppf.png" alt="ppf">
-	  </div>
-	  <div class="info">
-	    <div>naam</div>
-	    <div>brevet</div>
-	    <div>email</div>
-	  </div>
-	</div>
-      </div>
-    </section>
+      </section>
     </section>
   </main>
 </body>

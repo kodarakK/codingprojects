@@ -4,7 +4,7 @@
 *** Wie zijn we
  - missie / doel
  - bestuur
- - foto, functie, contact (mailadres)
+ - foto, functie
  - duikonderricht
    - Foto & brevet
      - opsplitsing jeugd en volwassen
@@ -13,15 +13,20 @@
      - Welke dag
      - waar
 *** Opleiding
- - jeugd
+ - jeugd (niet apart per opleiding)
    - uitleg dolfijnen
    - aansluiting: wat zit er in
    - verzekering
- - volwassenen
+ - volwassenen ( verdere opleiding ref naar nelos)
    - uitleg brevetten die we aanbieden
    - aansluiting: wat zit er in
    - verzekering
    - eventueel: voorstellen reizen
+
+
+
+*** minder prior
+*** huidige activiteiten (prikbord) (blog) (chatroom voor fotos)
 *** Open Water
  - zeeland
  - gavers
