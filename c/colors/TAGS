@@ -1,8 +1,31 @@
 
-colors.c,126
-#define WIDTH 5,60
-#define HEIGHT 6,79
-int counter 8,99
-Uint32 rgb_from_hsl(10,117
-void animate(59,971
-int main(83,1783
+c:/Users/kodar/programming/codingprojects/c/colors/colors,0
+
+c:/Users/kodar/programming/codingprojects/c/colors/colors.c,351
+#define WIDTH WIDTH5,64
+#define HEIGHT HEIGHT6,84
+int counter = 0;counter8,106
+Uint32 rgb_from_hsl(SDL_PixelFormat *pformat, double h, double s, double l)rgb_from_hsl10,126
+#define WIDTH WIDTH49,940
+#define HEIGHT HEIGHT50,960
+void animate(SDL_Window *pwindow, SDL_Surface *psurface, double time)animate163,4135
+int main()main199,5502
+
+c:/Users/kodar/programming/codingprojects/c/colors/Makefile,343
+CC = gccCC2,2
+SDL_PATH = C:/msys64/ucrt64SDL_PATH4,14
+CFLAGS = -Wall -Wextra -std=c11 -I"$(SDL_PATH)/include"CFLAGS6,45
+LDFLAGS = -L"$(SDL_PATH)/lib" -lSDL3LDFLAGS7,102
+TARGET = colors.exeTARGET9,142
+SRC = colors.cSRC10,163
+all: $(TARGET)all12,181
+$(TARGET): $(SRC)$(TARGET)14,199
+run: $(TARGET)run17,262
+clean:clean21,328
+
+c:/Users/kodar/programming/codingprojects/c/colors/TAGS,0
+
+c:/Users/kodar/programming/codingprojects/c/colors/TAGS.tmp,0
+
+c:/Users/kodar/programming/codingprojects/c/colors/test.c,25
+int main(void)main3,25

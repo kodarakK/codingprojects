@@ -1,0 +1,4512 @@
+array(2) {
+  [0]=>
+  string(12) "mul(454,153)"
+  [1]=>
+  string(12) "mul(454,153)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(565,994)"
+  [1]=>
+  string(12) "mul(565,994)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(890,533)"
+  [1]=>
+  string(12) "mul(890,533)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(875,768)"
+  [1]=>
+  string(12) "mul(875,768)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(103,598)"
+  [1]=>
+  string(12) "mul(103,598)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(401,600)"
+  [1]=>
+  string(12) "mul(401,600)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(928,225)"
+  [1]=>
+  string(12) "mul(928,225)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(909,344)"
+  [1]=>
+  string(12) "mul(909,344)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(972,219)"
+  [1]=>
+  string(12) "mul(972,219)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(402,908)"
+  [1]=>
+  string(12) "mul(402,908)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(60,961)"
+  [1]=>
+  string(11) "mul(60,961)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(459,473)"
+  [1]=>
+  string(12) "mul(459,473)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(143,89)"
+  [1]=>
+  string(11) "mul(143,89)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(772,463)"
+  [1]=>
+  string(12) "mul(772,463)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(742,92)"
+  [1]=>
+  string(11) "mul(742,92)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(776,917)"
+  [1]=>
+  string(12) "mul(776,917)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(746,260)"
+  [1]=>
+  string(12) "mul(746,260)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(694,820)"
+  [1]=>
+  string(12) "mul(694,820)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(296,514)"
+  [1]=>
+  string(12) "mul(296,514)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(442,333)"
+  [1]=>
+  string(12) "mul(442,333)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(774,695)"
+  [1]=>
+  string(12) "mul(774,695)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(834,493)"
+  [1]=>
+  string(12) "mul(834,493)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(240,739)"
+  [1]=>
+  string(12) "mul(240,739)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(796,837)"
+  [1]=>
+  string(12) "mul(796,837)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(301,618)"
+  [1]=>
+  string(12) "mul(301,618)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(933,68)"
+  [1]=>
+  string(11) "mul(933,68)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(879,769)"
+  [1]=>
+  string(12) "mul(879,769)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(314,537)"
+  [1]=>
+  string(12) "mul(314,537)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(134,21)"
+  [1]=>
+  string(11) "mul(134,21)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(670,298)"
+  [1]=>
+  string(12) "mul(670,298)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(414,322)"
+  [1]=>
+  string(12) "mul(414,322)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(200,440)"
+  [1]=>
+  string(12) "mul(200,440)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(58,834)"
+  [1]=>
+  string(11) "mul(58,834)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(966,435)"
+  [1]=>
+  string(12) "mul(966,435)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(98,983)"
+  [1]=>
+  string(11) "mul(98,983)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(727,703)"
+  [1]=>
+  string(12) "mul(727,703)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(175,542)"
+  [1]=>
+  string(12) "mul(175,542)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(363,28)"
+  [1]=>
+  string(11) "mul(363,28)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(103,154)"
+  [1]=>
+  string(12) "mul(103,154)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(808,942)"
+  [1]=>
+  string(12) "mul(808,942)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(780,395)"
+  [1]=>
+  string(12) "mul(780,395)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(879,633)"
+  [1]=>
+  string(12) "mul(879,633)"
+}
+array(2) {
+  [0]=>
+  string(9) "mul(6,80)"
+  [1]=>
+  string(9) "mul(6,80)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(385,345)"
+  [1]=>
+  string(12) "mul(385,345)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(557,404)"
+  [1]=>
+  string(12) "mul(557,404)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(586,270)"
+  [1]=>
+  string(12) "mul(586,270)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(914,485)"
+  [1]=>
+  string(12) "mul(914,485)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(616,138)"
+  [1]=>
+  string(12) "mul(616,138)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(786,357)"
+  [1]=>
+  string(12) "mul(786,357)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(967,485)"
+  [1]=>
+  string(12) "mul(967,485)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(664,982)"
+  [1]=>
+  string(12) "mul(664,982)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(826,970)"
+  [1]=>
+  string(12) "mul(826,970)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(586,837)"
+  [1]=>
+  string(12) "mul(586,837)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(540,583)"
+  [1]=>
+  string(12) "mul(540,583)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(358,207)"
+  [1]=>
+  string(12) "mul(358,207)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(988,94)"
+  [1]=>
+  string(11) "mul(988,94)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(82,18)"
+  [1]=>
+  string(10) "mul(82,18)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(805,768)"
+  [1]=>
+  string(12) "mul(805,768)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(779,277)"
+  [1]=>
+  string(12) "mul(779,277)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(580,42)"
+  [1]=>
+  string(11) "mul(580,42)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(491,435)"
+  [1]=>
+  string(12) "mul(491,435)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(345,720)"
+  [1]=>
+  string(12) "mul(345,720)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(529,664)"
+  [1]=>
+  string(12) "mul(529,664)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(925,474)"
+  [1]=>
+  string(12) "mul(925,474)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(655,353)"
+  [1]=>
+  string(12) "mul(655,353)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(39,73)"
+  [1]=>
+  string(10) "mul(39,73)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(367,290)"
+  [1]=>
+  string(12) "mul(367,290)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(338,323)"
+  [1]=>
+  string(12) "mul(338,323)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(746,703)"
+  [1]=>
+  string(12) "mul(746,703)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(70,40)"
+  [1]=>
+  string(10) "mul(70,40)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(557,879)"
+  [1]=>
+  string(12) "mul(557,879)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(89,464)"
+  [1]=>
+  string(11) "mul(89,464)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(669,359)"
+  [1]=>
+  string(12) "mul(669,359)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(64,989)"
+  [1]=>
+  string(11) "mul(64,989)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(49,43)"
+  [1]=>
+  string(10) "mul(49,43)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(946,368)"
+  [1]=>
+  string(12) "mul(946,368)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(754,618)"
+  [1]=>
+  string(12) "mul(754,618)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(925,787)"
+  [1]=>
+  string(12) "mul(925,787)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(857,178)"
+  [1]=>
+  string(12) "mul(857,178)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(622,524)"
+  [1]=>
+  string(12) "mul(622,524)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(572,8)"
+  [1]=>
+  string(10) "mul(572,8)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(22,910)"
+  [1]=>
+  string(11) "mul(22,910)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(9,541)"
+  [1]=>
+  string(10) "mul(9,541)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(583,678)"
+  [1]=>
+  string(12) "mul(583,678)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(977,618)"
+  [1]=>
+  string(12) "mul(977,618)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(846,566)"
+  [1]=>
+  string(12) "mul(846,566)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(601,58)"
+  [1]=>
+  string(11) "mul(601,58)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(12,677)"
+  [1]=>
+  string(11) "mul(12,677)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(295,467)"
+  [1]=>
+  string(12) "mul(295,467)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(462,179)"
+  [1]=>
+  string(12) "mul(462,179)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(950,26)"
+  [1]=>
+  string(11) "mul(950,26)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(541,949)"
+  [1]=>
+  string(12) "mul(541,949)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(931,833)"
+  [1]=>
+  string(12) "mul(931,833)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(665,272)"
+  [1]=>
+  string(12) "mul(665,272)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(470,26)"
+  [1]=>
+  string(11) "mul(470,26)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(945,496)"
+  [1]=>
+  string(12) "mul(945,496)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(958,735)"
+  [1]=>
+  string(12) "mul(958,735)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(292,844)"
+  [1]=>
+  string(12) "mul(292,844)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(323,887)"
+  [1]=>
+  string(12) "mul(323,887)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(890,844)"
+  [1]=>
+  string(12) "mul(890,844)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(727,812)"
+  [1]=>
+  string(12) "mul(727,812)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(521,348)"
+  [1]=>
+  string(12) "mul(521,348)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(68,187)"
+  [1]=>
+  string(11) "mul(68,187)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(270,65)"
+  [1]=>
+  string(11) "mul(270,65)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(267,348)"
+  [1]=>
+  string(12) "mul(267,348)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(614,872)"
+  [1]=>
+  string(12) "mul(614,872)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(13,848)"
+  [1]=>
+  string(11) "mul(13,848)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(214,262)"
+  [1]=>
+  string(12) "mul(214,262)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(34,526)"
+  [1]=>
+  string(11) "mul(34,526)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(648,400)"
+  [1]=>
+  string(12) "mul(648,400)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(946,270)"
+  [1]=>
+  string(12) "mul(946,270)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(672,282)"
+  [1]=>
+  string(12) "mul(672,282)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(156,431)"
+  [1]=>
+  string(12) "mul(156,431)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(10,765)"
+  [1]=>
+  string(11) "mul(10,765)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(393,855)"
+  [1]=>
+  string(12) "mul(393,855)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(538,109)"
+  [1]=>
+  string(12) "mul(538,109)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(841,917)"
+  [1]=>
+  string(12) "mul(841,917)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(624,87)"
+  [1]=>
+  string(11) "mul(624,87)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(82,319)"
+  [1]=>
+  string(11) "mul(82,319)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(882,75)"
+  [1]=>
+  string(11) "mul(882,75)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(481,243)"
+  [1]=>
+  string(12) "mul(481,243)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(93,825)"
+  [1]=>
+  string(11) "mul(93,825)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(417,293)"
+  [1]=>
+  string(12) "mul(417,293)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(577,515)"
+  [1]=>
+  string(12) "mul(577,515)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(644,588)"
+  [1]=>
+  string(12) "mul(644,588)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(260,870)"
+  [1]=>
+  string(12) "mul(260,870)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(82,64)"
+  [1]=>
+  string(10) "mul(82,64)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(513,597)"
+  [1]=>
+  string(12) "mul(513,597)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(876,302)"
+  [1]=>
+  string(12) "mul(876,302)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(646,666)"
+  [1]=>
+  string(12) "mul(646,666)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(244,591)"
+  [1]=>
+  string(12) "mul(244,591)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(708,996)"
+  [1]=>
+  string(12) "mul(708,996)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(760,261)"
+  [1]=>
+  string(12) "mul(760,261)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(870,299)"
+  [1]=>
+  string(12) "mul(870,299)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(269,625)"
+  [1]=>
+  string(12) "mul(269,625)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(723,486)"
+  [1]=>
+  string(12) "mul(723,486)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(475,745)"
+  [1]=>
+  string(12) "mul(475,745)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(117,765)"
+  [1]=>
+  string(12) "mul(117,765)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(201,421)"
+  [1]=>
+  string(12) "mul(201,421)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(715,512)"
+  [1]=>
+  string(12) "mul(715,512)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(525,861)"
+  [1]=>
+  string(12) "mul(525,861)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(94,520)"
+  [1]=>
+  string(11) "mul(94,520)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(200,362)"
+  [1]=>
+  string(12) "mul(200,362)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(662,110)"
+  [1]=>
+  string(12) "mul(662,110)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(706,110)"
+  [1]=>
+  string(12) "mul(706,110)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(952,760)"
+  [1]=>
+  string(12) "mul(952,760)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(788,331)"
+  [1]=>
+  string(12) "mul(788,331)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(790,172)"
+  [1]=>
+  string(12) "mul(790,172)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(744,504)"
+  [1]=>
+  string(12) "mul(744,504)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(24,595)"
+  [1]=>
+  string(11) "mul(24,595)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(962,669)"
+  [1]=>
+  string(12) "mul(962,669)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(454,164)"
+  [1]=>
+  string(12) "mul(454,164)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(10,853)"
+  [1]=>
+  string(11) "mul(10,853)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(909,997)"
+  [1]=>
+  string(12) "mul(909,997)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(97,897)"
+  [1]=>
+  string(11) "mul(97,897)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(935,220)"
+  [1]=>
+  string(12) "mul(935,220)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(301,584)"
+  [1]=>
+  string(12) "mul(301,584)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(609,313)"
+  [1]=>
+  string(12) "mul(609,313)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(491,372)"
+  [1]=>
+  string(12) "mul(491,372)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(809,414)"
+  [1]=>
+  string(12) "mul(809,414)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(202,168)"
+  [1]=>
+  string(12) "mul(202,168)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(281,296)"
+  [1]=>
+  string(12) "mul(281,296)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(625,586)"
+  [1]=>
+  string(12) "mul(625,586)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(543,106)"
+  [1]=>
+  string(12) "mul(543,106)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(261,544)"
+  [1]=>
+  string(12) "mul(261,544)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(325,976)"
+  [1]=>
+  string(12) "mul(325,976)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(309,586)"
+  [1]=>
+  string(12) "mul(309,586)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(527,332)"
+  [1]=>
+  string(12) "mul(527,332)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(266,71)"
+  [1]=>
+  string(11) "mul(266,71)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(383,68)"
+  [1]=>
+  string(11) "mul(383,68)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(479,649)"
+  [1]=>
+  string(12) "mul(479,649)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(954,835)"
+  [1]=>
+  string(12) "mul(954,835)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(73,982)"
+  [1]=>
+  string(11) "mul(73,982)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(275,963)"
+  [1]=>
+  string(12) "mul(275,963)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(159,868)"
+  [1]=>
+  string(12) "mul(159,868)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(849,590)"
+  [1]=>
+  string(12) "mul(849,590)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(380,542)"
+  [1]=>
+  string(12) "mul(380,542)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(716,261)"
+  [1]=>
+  string(12) "mul(716,261)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(102,332)"
+  [1]=>
+  string(12) "mul(102,332)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(151,993)"
+  [1]=>
+  string(12) "mul(151,993)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(449,110)"
+  [1]=>
+  string(12) "mul(449,110)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(427,877)"
+  [1]=>
+  string(12) "mul(427,877)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(225,989)"
+  [1]=>
+  string(12) "mul(225,989)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(271,482)"
+  [1]=>
+  string(12) "mul(271,482)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(292,747)"
+  [1]=>
+  string(12) "mul(292,747)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(675,831)"
+  [1]=>
+  string(12) "mul(675,831)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(82,353)"
+  [1]=>
+  string(11) "mul(82,353)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(531,95)"
+  [1]=>
+  string(11) "mul(531,95)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(172,129)"
+  [1]=>
+  string(12) "mul(172,129)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(458,222)"
+  [1]=>
+  string(12) "mul(458,222)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(640,872)"
+  [1]=>
+  string(12) "mul(640,872)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(45,292)"
+  [1]=>
+  string(11) "mul(45,292)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(859,346)"
+  [1]=>
+  string(12) "mul(859,346)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(247,266)"
+  [1]=>
+  string(12) "mul(247,266)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(468,925)"
+  [1]=>
+  string(12) "mul(468,925)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(184,981)"
+  [1]=>
+  string(12) "mul(184,981)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(420,131)"
+  [1]=>
+  string(12) "mul(420,131)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(402,68)"
+  [1]=>
+  string(11) "mul(402,68)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(278,846)"
+  [1]=>
+  string(12) "mul(278,846)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(287,731)"
+  [1]=>
+  string(12) "mul(287,731)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(989,728)"
+  [1]=>
+  string(12) "mul(989,728)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(54,842)"
+  [1]=>
+  string(11) "mul(54,842)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(581,400)"
+  [1]=>
+  string(12) "mul(581,400)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(272,787)"
+  [1]=>
+  string(12) "mul(272,787)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(55,325)"
+  [1]=>
+  string(11) "mul(55,325)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(437,664)"
+  [1]=>
+  string(12) "mul(437,664)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(569,297)"
+  [1]=>
+  string(12) "mul(569,297)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(40,581)"
+  [1]=>
+  string(11) "mul(40,581)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(828,836)"
+  [1]=>
+  string(12) "mul(828,836)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(326,511)"
+  [1]=>
+  string(12) "mul(326,511)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(947,618)"
+  [1]=>
+  string(12) "mul(947,618)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(278,843)"
+  [1]=>
+  string(12) "mul(278,843)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(333,183)"
+  [1]=>
+  string(12) "mul(333,183)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(360,636)"
+  [1]=>
+  string(12) "mul(360,636)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(43,235)"
+  [1]=>
+  string(11) "mul(43,235)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(163,420)"
+  [1]=>
+  string(12) "mul(163,420)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(328,120)"
+  [1]=>
+  string(12) "mul(328,120)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(892,685)"
+  [1]=>
+  string(12) "mul(892,685)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(454,194)"
+  [1]=>
+  string(12) "mul(454,194)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(651,343)"
+  [1]=>
+  string(12) "mul(651,343)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(311,104)"
+  [1]=>
+  string(12) "mul(311,104)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(348,414)"
+  [1]=>
+  string(12) "mul(348,414)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(565,187)"
+  [1]=>
+  string(12) "mul(565,187)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(573,606)"
+  [1]=>
+  string(12) "mul(573,606)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(29,128)"
+  [1]=>
+  string(11) "mul(29,128)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(515,513)"
+  [1]=>
+  string(12) "mul(515,513)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(54,420)"
+  [1]=>
+  string(11) "mul(54,420)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(253,192)"
+  [1]=>
+  string(12) "mul(253,192)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(670,417)"
+  [1]=>
+  string(12) "mul(670,417)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(77,694)"
+  [1]=>
+  string(11) "mul(77,694)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(580,475)"
+  [1]=>
+  string(12) "mul(580,475)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(301,391)"
+  [1]=>
+  string(12) "mul(301,391)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(662,532)"
+  [1]=>
+  string(12) "mul(662,532)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(317,266)"
+  [1]=>
+  string(12) "mul(317,266)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(882,259)"
+  [1]=>
+  string(12) "mul(882,259)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(251,179)"
+  [1]=>
+  string(12) "mul(251,179)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(244,700)"
+  [1]=>
+  string(12) "mul(244,700)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(989,641)"
+  [1]=>
+  string(12) "mul(989,641)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(17,250)"
+  [1]=>
+  string(11) "mul(17,250)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(516,948)"
+  [1]=>
+  string(12) "mul(516,948)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(936,726)"
+  [1]=>
+  string(12) "mul(936,726)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(642,108)"
+  [1]=>
+  string(12) "mul(642,108)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(421,307)"
+  [1]=>
+  string(12) "mul(421,307)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(954,385)"
+  [1]=>
+  string(12) "mul(954,385)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(152,214)"
+  [1]=>
+  string(12) "mul(152,214)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(88,987)"
+  [1]=>
+  string(11) "mul(88,987)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(592,288)"
+  [1]=>
+  string(12) "mul(592,288)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(234,936)"
+  [1]=>
+  string(12) "mul(234,936)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(711,979)"
+  [1]=>
+  string(12) "mul(711,979)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(970,839)"
+  [1]=>
+  string(12) "mul(970,839)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(525,184)"
+  [1]=>
+  string(12) "mul(525,184)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(592,712)"
+  [1]=>
+  string(12) "mul(592,712)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(796,770)"
+  [1]=>
+  string(12) "mul(796,770)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(737,95)"
+  [1]=>
+  string(11) "mul(737,95)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(538,295)"
+  [1]=>
+  string(12) "mul(538,295)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(202,997)"
+  [1]=>
+  string(12) "mul(202,997)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(920,622)"
+  [1]=>
+  string(12) "mul(920,622)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(890,310)"
+  [1]=>
+  string(12) "mul(890,310)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(753,51)"
+  [1]=>
+  string(11) "mul(753,51)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(44,560)"
+  [1]=>
+  string(11) "mul(44,560)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(846,745)"
+  [1]=>
+  string(12) "mul(846,745)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(884,965)"
+  [1]=>
+  string(12) "mul(884,965)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(607,810)"
+  [1]=>
+  string(12) "mul(607,810)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(15,474)"
+  [1]=>
+  string(11) "mul(15,474)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(381,876)"
+  [1]=>
+  string(12) "mul(381,876)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(350,528)"
+  [1]=>
+  string(12) "mul(350,528)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(465,783)"
+  [1]=>
+  string(12) "mul(465,783)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(109,659)"
+  [1]=>
+  string(12) "mul(109,659)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(260,549)"
+  [1]=>
+  string(12) "mul(260,549)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(750,184)"
+  [1]=>
+  string(12) "mul(750,184)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(514,568)"
+  [1]=>
+  string(12) "mul(514,568)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(142,867)"
+  [1]=>
+  string(12) "mul(142,867)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(197,631)"
+  [1]=>
+  string(12) "mul(197,631)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(592,975)"
+  [1]=>
+  string(12) "mul(592,975)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(505,954)"
+  [1]=>
+  string(12) "mul(505,954)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(899,266)"
+  [1]=>
+  string(12) "mul(899,266)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(936,764)"
+  [1]=>
+  string(12) "mul(936,764)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(189,689)"
+  [1]=>
+  string(12) "mul(189,689)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(474,190)"
+  [1]=>
+  string(12) "mul(474,190)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(271,843)"
+  [1]=>
+  string(12) "mul(271,843)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(284,340)"
+  [1]=>
+  string(12) "mul(284,340)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(998,539)"
+  [1]=>
+  string(12) "mul(998,539)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(577,914)"
+  [1]=>
+  string(12) "mul(577,914)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(305,505)"
+  [1]=>
+  string(12) "mul(305,505)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(331,543)"
+  [1]=>
+  string(12) "mul(331,543)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(91,478)"
+  [1]=>
+  string(11) "mul(91,478)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(560,724)"
+  [1]=>
+  string(12) "mul(560,724)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(229,896)"
+  [1]=>
+  string(12) "mul(229,896)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(826,622)"
+  [1]=>
+  string(12) "mul(826,622)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(451,442)"
+  [1]=>
+  string(12) "mul(451,442)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(866,906)"
+  [1]=>
+  string(12) "mul(866,906)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(199,824)"
+  [1]=>
+  string(12) "mul(199,824)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(727,123)"
+  [1]=>
+  string(12) "mul(727,123)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(612,415)"
+  [1]=>
+  string(12) "mul(612,415)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(106,998)"
+  [1]=>
+  string(12) "mul(106,998)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(345,702)"
+  [1]=>
+  string(12) "mul(345,702)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(275,94)"
+  [1]=>
+  string(11) "mul(275,94)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(426,479)"
+  [1]=>
+  string(12) "mul(426,479)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(40,71)"
+  [1]=>
+  string(10) "mul(40,71)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(973,215)"
+  [1]=>
+  string(12) "mul(973,215)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(709,788)"
+  [1]=>
+  string(12) "mul(709,788)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(205,236)"
+  [1]=>
+  string(12) "mul(205,236)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(50,81)"
+  [1]=>
+  string(10) "mul(50,81)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(748,800)"
+  [1]=>
+  string(12) "mul(748,800)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(124,528)"
+  [1]=>
+  string(12) "mul(124,528)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(129,959)"
+  [1]=>
+  string(12) "mul(129,959)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(547,292)"
+  [1]=>
+  string(12) "mul(547,292)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(442,582)"
+  [1]=>
+  string(12) "mul(442,582)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(440,501)"
+  [1]=>
+  string(12) "mul(440,501)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(613,367)"
+  [1]=>
+  string(12) "mul(613,367)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(351,228)"
+  [1]=>
+  string(12) "mul(351,228)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(134,668)"
+  [1]=>
+  string(12) "mul(134,668)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(810,445)"
+  [1]=>
+  string(12) "mul(810,445)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(731,60)"
+  [1]=>
+  string(11) "mul(731,60)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(695,596)"
+  [1]=>
+  string(12) "mul(695,596)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(570,879)"
+  [1]=>
+  string(12) "mul(570,879)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(335,108)"
+  [1]=>
+  string(12) "mul(335,108)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(759,937)"
+  [1]=>
+  string(12) "mul(759,937)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(93,397)"
+  [1]=>
+  string(11) "mul(93,397)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(172,288)"
+  [1]=>
+  string(12) "mul(172,288)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(90,27)"
+  [1]=>
+  string(10) "mul(90,27)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(272,960)"
+  [1]=>
+  string(12) "mul(272,960)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(525,125)"
+  [1]=>
+  string(12) "mul(525,125)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(513,731)"
+  [1]=>
+  string(12) "mul(513,731)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(758,764)"
+  [1]=>
+  string(12) "mul(758,764)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(248,570)"
+  [1]=>
+  string(12) "mul(248,570)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(352,81)"
+  [1]=>
+  string(11) "mul(352,81)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(723,61)"
+  [1]=>
+  string(11) "mul(723,61)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(340,35)"
+  [1]=>
+  string(11) "mul(340,35)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(895,416)"
+  [1]=>
+  string(12) "mul(895,416)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(857,771)"
+  [1]=>
+  string(12) "mul(857,771)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(494,721)"
+  [1]=>
+  string(12) "mul(494,721)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(361,116)"
+  [1]=>
+  string(12) "mul(361,116)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(552,797)"
+  [1]=>
+  string(12) "mul(552,797)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(235,864)"
+  [1]=>
+  string(12) "mul(235,864)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(222,585)"
+  [1]=>
+  string(12) "mul(222,585)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(3,798)"
+  [1]=>
+  string(10) "mul(3,798)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(322,478)"
+  [1]=>
+  string(12) "mul(322,478)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(994,4)"
+  [1]=>
+  string(10) "mul(994,4)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(534,885)"
+  [1]=>
+  string(12) "mul(534,885)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(716,993)"
+  [1]=>
+  string(12) "mul(716,993)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(509,779)"
+  [1]=>
+  string(12) "mul(509,779)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(682,498)"
+  [1]=>
+  string(12) "mul(682,498)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(69,525)"
+  [1]=>
+  string(11) "mul(69,525)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(68,359)"
+  [1]=>
+  string(11) "mul(68,359)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(132,353)"
+  [1]=>
+  string(12) "mul(132,353)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(980,998)"
+  [1]=>
+  string(12) "mul(980,998)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(570,289)"
+  [1]=>
+  string(12) "mul(570,289)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(388,859)"
+  [1]=>
+  string(12) "mul(388,859)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(208,875)"
+  [1]=>
+  string(12) "mul(208,875)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(199,174)"
+  [1]=>
+  string(12) "mul(199,174)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(221,636)"
+  [1]=>
+  string(12) "mul(221,636)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(725,983)"
+  [1]=>
+  string(12) "mul(725,983)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(85,978)"
+  [1]=>
+  string(11) "mul(85,978)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(178,305)"
+  [1]=>
+  string(12) "mul(178,305)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(374,804)"
+  [1]=>
+  string(12) "mul(374,804)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(446,37)"
+  [1]=>
+  string(11) "mul(446,37)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(959,330)"
+  [1]=>
+  string(12) "mul(959,330)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(228,273)"
+  [1]=>
+  string(12) "mul(228,273)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(649,849)"
+  [1]=>
+  string(12) "mul(649,849)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(344,447)"
+  [1]=>
+  string(12) "mul(344,447)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(217,542)"
+  [1]=>
+  string(12) "mul(217,542)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(253,8)"
+  [1]=>
+  string(10) "mul(253,8)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(174,127)"
+  [1]=>
+  string(12) "mul(174,127)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(263,164)"
+  [1]=>
+  string(12) "mul(263,164)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(873,530)"
+  [1]=>
+  string(12) "mul(873,530)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(459,547)"
+  [1]=>
+  string(12) "mul(459,547)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(674,506)"
+  [1]=>
+  string(12) "mul(674,506)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(665,313)"
+  [1]=>
+  string(12) "mul(665,313)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(310,284)"
+  [1]=>
+  string(12) "mul(310,284)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(655,423)"
+  [1]=>
+  string(12) "mul(655,423)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(190,467)"
+  [1]=>
+  string(12) "mul(190,467)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(71,646)"
+  [1]=>
+  string(11) "mul(71,646)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(362,510)"
+  [1]=>
+  string(12) "mul(362,510)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(570,150)"
+  [1]=>
+  string(12) "mul(570,150)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(508,426)"
+  [1]=>
+  string(12) "mul(508,426)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(155,774)"
+  [1]=>
+  string(12) "mul(155,774)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(670,674)"
+  [1]=>
+  string(12) "mul(670,674)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(736,574)"
+  [1]=>
+  string(12) "mul(736,574)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(827,796)"
+  [1]=>
+  string(12) "mul(827,796)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(88,489)"
+  [1]=>
+  string(11) "mul(88,489)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(173,890)"
+  [1]=>
+  string(12) "mul(173,890)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(244,436)"
+  [1]=>
+  string(12) "mul(244,436)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(991,950)"
+  [1]=>
+  string(12) "mul(991,950)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(804,561)"
+  [1]=>
+  string(12) "mul(804,561)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(442,575)"
+  [1]=>
+  string(12) "mul(442,575)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(866,343)"
+  [1]=>
+  string(12) "mul(866,343)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(423,440)"
+  [1]=>
+  string(12) "mul(423,440)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(259,864)"
+  [1]=>
+  string(12) "mul(259,864)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(256,238)"
+  [1]=>
+  string(12) "mul(256,238)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(206,916)"
+  [1]=>
+  string(12) "mul(206,916)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(630,249)"
+  [1]=>
+  string(12) "mul(630,249)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(521,101)"
+  [1]=>
+  string(12) "mul(521,101)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(185,154)"
+  [1]=>
+  string(12) "mul(185,154)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(231,307)"
+  [1]=>
+  string(12) "mul(231,307)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(564,503)"
+  [1]=>
+  string(12) "mul(564,503)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(245,476)"
+  [1]=>
+  string(12) "mul(245,476)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(846,533)"
+  [1]=>
+  string(12) "mul(846,533)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(538,765)"
+  [1]=>
+  string(12) "mul(538,765)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(98,545)"
+  [1]=>
+  string(11) "mul(98,545)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(588,167)"
+  [1]=>
+  string(12) "mul(588,167)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(246,51)"
+  [1]=>
+  string(11) "mul(246,51)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(921,460)"
+  [1]=>
+  string(12) "mul(921,460)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(674,502)"
+  [1]=>
+  string(12) "mul(674,502)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(406,916)"
+  [1]=>
+  string(12) "mul(406,916)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(501,656)"
+  [1]=>
+  string(12) "mul(501,656)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(979,533)"
+  [1]=>
+  string(12) "mul(979,533)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(370,549)"
+  [1]=>
+  string(12) "mul(370,549)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(168,884)"
+  [1]=>
+  string(12) "mul(168,884)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(377,183)"
+  [1]=>
+  string(12) "mul(377,183)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(48,619)"
+  [1]=>
+  string(11) "mul(48,619)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(43,845)"
+  [1]=>
+  string(11) "mul(43,845)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(575,269)"
+  [1]=>
+  string(12) "mul(575,269)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(482,691)"
+  [1]=>
+  string(12) "mul(482,691)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(784,137)"
+  [1]=>
+  string(12) "mul(784,137)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(901,539)"
+  [1]=>
+  string(12) "mul(901,539)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(979,206)"
+  [1]=>
+  string(12) "mul(979,206)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(705,493)"
+  [1]=>
+  string(12) "mul(705,493)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(425,602)"
+  [1]=>
+  string(12) "mul(425,602)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(231,25)"
+  [1]=>
+  string(11) "mul(231,25)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(658,479)"
+  [1]=>
+  string(12) "mul(658,479)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(486,551)"
+  [1]=>
+  string(12) "mul(486,551)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(571,395)"
+  [1]=>
+  string(12) "mul(571,395)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(319,33)"
+  [1]=>
+  string(11) "mul(319,33)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(313,612)"
+  [1]=>
+  string(12) "mul(313,612)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(489,554)"
+  [1]=>
+  string(12) "mul(489,554)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(482,42)"
+  [1]=>
+  string(11) "mul(482,42)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(911,838)"
+  [1]=>
+  string(12) "mul(911,838)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(748,509)"
+  [1]=>
+  string(12) "mul(748,509)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(98,104)"
+  [1]=>
+  string(11) "mul(98,104)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(904,678)"
+  [1]=>
+  string(12) "mul(904,678)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(918,395)"
+  [1]=>
+  string(12) "mul(918,395)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(826,867)"
+  [1]=>
+  string(12) "mul(826,867)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(673,493)"
+  [1]=>
+  string(12) "mul(673,493)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(152,937)"
+  [1]=>
+  string(12) "mul(152,937)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(572,408)"
+  [1]=>
+  string(12) "mul(572,408)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(971,805)"
+  [1]=>
+  string(12) "mul(971,805)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(76,96)"
+  [1]=>
+  string(10) "mul(76,96)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(711,3)"
+  [1]=>
+  string(10) "mul(711,3)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(799,474)"
+  [1]=>
+  string(12) "mul(799,474)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(251,649)"
+  [1]=>
+  string(12) "mul(251,649)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(892,224)"
+  [1]=>
+  string(12) "mul(892,224)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(635,260)"
+  [1]=>
+  string(12) "mul(635,260)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(300,39)"
+  [1]=>
+  string(11) "mul(300,39)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(276,702)"
+  [1]=>
+  string(12) "mul(276,702)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(192,782)"
+  [1]=>
+  string(12) "mul(192,782)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(948,155)"
+  [1]=>
+  string(12) "mul(948,155)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(747,717)"
+  [1]=>
+  string(12) "mul(747,717)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(967,489)"
+  [1]=>
+  string(12) "mul(967,489)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(961,811)"
+  [1]=>
+  string(12) "mul(961,811)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(307,623)"
+  [1]=>
+  string(12) "mul(307,623)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(669,93)"
+  [1]=>
+  string(11) "mul(669,93)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(105,129)"
+  [1]=>
+  string(12) "mul(105,129)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(246,433)"
+  [1]=>
+  string(12) "mul(246,433)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(941,140)"
+  [1]=>
+  string(12) "mul(941,140)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(580,48)"
+  [1]=>
+  string(11) "mul(580,48)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(189,229)"
+  [1]=>
+  string(12) "mul(189,229)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(741,684)"
+  [1]=>
+  string(12) "mul(741,684)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(632,558)"
+  [1]=>
+  string(12) "mul(632,558)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(986,227)"
+  [1]=>
+  string(12) "mul(986,227)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(704,986)"
+  [1]=>
+  string(12) "mul(704,986)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(752,877)"
+  [1]=>
+  string(12) "mul(752,877)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(33,338)"
+  [1]=>
+  string(11) "mul(33,338)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(747,356)"
+  [1]=>
+  string(12) "mul(747,356)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(674,720)"
+  [1]=>
+  string(12) "mul(674,720)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(10,513)"
+  [1]=>
+  string(11) "mul(10,513)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(114,558)"
+  [1]=>
+  string(12) "mul(114,558)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(759,134)"
+  [1]=>
+  string(12) "mul(759,134)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(444,475)"
+  [1]=>
+  string(12) "mul(444,475)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(206,80)"
+  [1]=>
+  string(11) "mul(206,80)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(424,213)"
+  [1]=>
+  string(12) "mul(424,213)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(847,293)"
+  [1]=>
+  string(12) "mul(847,293)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(837,220)"
+  [1]=>
+  string(12) "mul(837,220)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(613,470)"
+  [1]=>
+  string(12) "mul(613,470)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(93,129)"
+  [1]=>
+  string(11) "mul(93,129)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(336,151)"
+  [1]=>
+  string(12) "mul(336,151)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(467,47)"
+  [1]=>
+  string(11) "mul(467,47)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(513,543)"
+  [1]=>
+  string(12) "mul(513,543)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(397,402)"
+  [1]=>
+  string(12) "mul(397,402)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(428,472)"
+  [1]=>
+  string(12) "mul(428,472)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(262,609)"
+  [1]=>
+  string(12) "mul(262,609)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(778,88)"
+  [1]=>
+  string(11) "mul(778,88)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(251,617)"
+  [1]=>
+  string(12) "mul(251,617)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(176,935)"
+  [1]=>
+  string(12) "mul(176,935)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(241,470)"
+  [1]=>
+  string(12) "mul(241,470)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(684,534)"
+  [1]=>
+  string(12) "mul(684,534)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(336,113)"
+  [1]=>
+  string(12) "mul(336,113)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(835,881)"
+  [1]=>
+  string(12) "mul(835,881)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(901,992)"
+  [1]=>
+  string(12) "mul(901,992)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(333,684)"
+  [1]=>
+  string(12) "mul(333,684)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(493,314)"
+  [1]=>
+  string(12) "mul(493,314)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(754,558)"
+  [1]=>
+  string(12) "mul(754,558)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(991,39)"
+  [1]=>
+  string(11) "mul(991,39)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(459,367)"
+  [1]=>
+  string(12) "mul(459,367)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(32,624)"
+  [1]=>
+  string(11) "mul(32,624)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(741,402)"
+  [1]=>
+  string(12) "mul(741,402)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(559,247)"
+  [1]=>
+  string(12) "mul(559,247)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(788,419)"
+  [1]=>
+  string(12) "mul(788,419)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(710,838)"
+  [1]=>
+  string(12) "mul(710,838)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(952,75)"
+  [1]=>
+  string(11) "mul(952,75)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(547,553)"
+  [1]=>
+  string(12) "mul(547,553)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(597,266)"
+  [1]=>
+  string(12) "mul(597,266)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(215,607)"
+  [1]=>
+  string(12) "mul(215,607)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(523,490)"
+  [1]=>
+  string(12) "mul(523,490)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(735,766)"
+  [1]=>
+  string(12) "mul(735,766)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(73,86)"
+  [1]=>
+  string(10) "mul(73,86)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(285,423)"
+  [1]=>
+  string(12) "mul(285,423)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(846,592)"
+  [1]=>
+  string(12) "mul(846,592)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(129,272)"
+  [1]=>
+  string(12) "mul(129,272)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(839,173)"
+  [1]=>
+  string(12) "mul(839,173)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(49,44)"
+  [1]=>
+  string(10) "mul(49,44)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(265,467)"
+  [1]=>
+  string(12) "mul(265,467)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(561,416)"
+  [1]=>
+  string(12) "mul(561,416)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(334,113)"
+  [1]=>
+  string(12) "mul(334,113)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(126,247)"
+  [1]=>
+  string(12) "mul(126,247)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(536,247)"
+  [1]=>
+  string(12) "mul(536,247)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(780,762)"
+  [1]=>
+  string(12) "mul(780,762)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(416,370)"
+  [1]=>
+  string(12) "mul(416,370)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(617,551)"
+  [1]=>
+  string(12) "mul(617,551)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(654,34)"
+  [1]=>
+  string(11) "mul(654,34)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(30,36)"
+  [1]=>
+  string(10) "mul(30,36)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(348,922)"
+  [1]=>
+  string(12) "mul(348,922)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(909,44)"
+  [1]=>
+  string(11) "mul(909,44)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(30,114)"
+  [1]=>
+  string(11) "mul(30,114)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(324,650)"
+  [1]=>
+  string(12) "mul(324,650)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(116,480)"
+  [1]=>
+  string(12) "mul(116,480)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(722,539)"
+  [1]=>
+  string(12) "mul(722,539)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(69,643)"
+  [1]=>
+  string(11) "mul(69,643)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(398,585)"
+  [1]=>
+  string(12) "mul(398,585)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(635,160)"
+  [1]=>
+  string(12) "mul(635,160)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(218,149)"
+  [1]=>
+  string(12) "mul(218,149)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(4,152)"
+  [1]=>
+  string(10) "mul(4,152)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(78,645)"
+  [1]=>
+  string(11) "mul(78,645)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(196,97)"
+  [1]=>
+  string(11) "mul(196,97)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(254,416)"
+  [1]=>
+  string(12) "mul(254,416)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(670,932)"
+  [1]=>
+  string(12) "mul(670,932)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(741,232)"
+  [1]=>
+  string(12) "mul(741,232)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(775,804)"
+  [1]=>
+  string(12) "mul(775,804)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(757,128)"
+  [1]=>
+  string(12) "mul(757,128)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(47,297)"
+  [1]=>
+  string(11) "mul(47,297)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(604,497)"
+  [1]=>
+  string(12) "mul(604,497)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(770,711)"
+  [1]=>
+  string(12) "mul(770,711)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(777,175)"
+  [1]=>
+  string(12) "mul(777,175)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(376,176)"
+  [1]=>
+  string(12) "mul(376,176)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(758,497)"
+  [1]=>
+  string(12) "mul(758,497)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(54,973)"
+  [1]=>
+  string(11) "mul(54,973)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(248,44)"
+  [1]=>
+  string(11) "mul(248,44)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(162,809)"
+  [1]=>
+  string(12) "mul(162,809)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(839,131)"
+  [1]=>
+  string(12) "mul(839,131)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(913,94)"
+  [1]=>
+  string(11) "mul(913,94)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(459,43)"
+  [1]=>
+  string(11) "mul(459,43)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(733,345)"
+  [1]=>
+  string(12) "mul(733,345)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(292,416)"
+  [1]=>
+  string(12) "mul(292,416)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(648,879)"
+  [1]=>
+  string(12) "mul(648,879)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(708,178)"
+  [1]=>
+  string(12) "mul(708,178)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(560,727)"
+  [1]=>
+  string(12) "mul(560,727)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(90,393)"
+  [1]=>
+  string(11) "mul(90,393)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(578,828)"
+  [1]=>
+  string(12) "mul(578,828)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(710,50)"
+  [1]=>
+  string(11) "mul(710,50)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(250,79)"
+  [1]=>
+  string(11) "mul(250,79)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(523,730)"
+  [1]=>
+  string(12) "mul(523,730)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(698,766)"
+  [1]=>
+  string(12) "mul(698,766)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(238,155)"
+  [1]=>
+  string(12) "mul(238,155)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(246,69)"
+  [1]=>
+  string(11) "mul(246,69)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(385,209)"
+  [1]=>
+  string(12) "mul(385,209)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(214,524)"
+  [1]=>
+  string(12) "mul(214,524)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(429,28)"
+  [1]=>
+  string(11) "mul(429,28)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(747,239)"
+  [1]=>
+  string(12) "mul(747,239)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(363,660)"
+  [1]=>
+  string(12) "mul(363,660)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(971,115)"
+  [1]=>
+  string(12) "mul(971,115)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(313,612)"
+  [1]=>
+  string(12) "mul(313,612)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(886,716)"
+  [1]=>
+  string(12) "mul(886,716)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(843,866)"
+  [1]=>
+  string(12) "mul(843,866)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(62,918)"
+  [1]=>
+  string(11) "mul(62,918)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(602,984)"
+  [1]=>
+  string(12) "mul(602,984)"
+}
+array(2) {
+  [0]=>
+  string(8) "mul(3,2)"
+  [1]=>
+  string(8) "mul(3,2)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(134,654)"
+  [1]=>
+  string(12) "mul(134,654)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(456,534)"
+  [1]=>
+  string(12) "mul(456,534)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(528,106)"
+  [1]=>
+  string(12) "mul(528,106)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(157,393)"
+  [1]=>
+  string(12) "mul(157,393)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(697,508)"
+  [1]=>
+  string(12) "mul(697,508)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(793,680)"
+  [1]=>
+  string(12) "mul(793,680)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(176,69)"
+  [1]=>
+  string(11) "mul(176,69)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(311,266)"
+  [1]=>
+  string(12) "mul(311,266)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(771,898)"
+  [1]=>
+  string(12) "mul(771,898)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(441,294)"
+  [1]=>
+  string(12) "mul(441,294)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(882,564)"
+  [1]=>
+  string(12) "mul(882,564)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(954,646)"
+  [1]=>
+  string(12) "mul(954,646)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(322,840)"
+  [1]=>
+  string(12) "mul(322,840)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(589,361)"
+  [1]=>
+  string(12) "mul(589,361)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(617,898)"
+  [1]=>
+  string(12) "mul(617,898)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(118,907)"
+  [1]=>
+  string(12) "mul(118,907)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(140,382)"
+  [1]=>
+  string(12) "mul(140,382)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(132,674)"
+  [1]=>
+  string(12) "mul(132,674)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(900,79)"
+  [1]=>
+  string(11) "mul(900,79)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(238,573)"
+  [1]=>
+  string(12) "mul(238,573)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(266,561)"
+  [1]=>
+  string(12) "mul(266,561)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(150,805)"
+  [1]=>
+  string(12) "mul(150,805)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(781,972)"
+  [1]=>
+  string(12) "mul(781,972)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(764,49)"
+  [1]=>
+  string(11) "mul(764,49)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(698,69)"
+  [1]=>
+  string(11) "mul(698,69)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(438,77)"
+  [1]=>
+  string(11) "mul(438,77)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(712,314)"
+  [1]=>
+  string(12) "mul(712,314)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(806,50)"
+  [1]=>
+  string(11) "mul(806,50)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(522,258)"
+  [1]=>
+  string(12) "mul(522,258)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(750,831)"
+  [1]=>
+  string(12) "mul(750,831)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(2,167)"
+  [1]=>
+  string(10) "mul(2,167)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(480,518)"
+  [1]=>
+  string(12) "mul(480,518)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(856,366)"
+  [1]=>
+  string(12) "mul(856,366)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(246,951)"
+  [1]=>
+  string(12) "mul(246,951)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(771,634)"
+  [1]=>
+  string(12) "mul(771,634)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(489,260)"
+  [1]=>
+  string(12) "mul(489,260)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(527,396)"
+  [1]=>
+  string(12) "mul(527,396)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(557,921)"
+  [1]=>
+  string(12) "mul(557,921)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(551,664)"
+  [1]=>
+  string(12) "mul(551,664)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(868,16)"
+  [1]=>
+  string(11) "mul(868,16)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(641,963)"
+  [1]=>
+  string(12) "mul(641,963)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(130,436)"
+  [1]=>
+  string(12) "mul(130,436)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(745,360)"
+  [1]=>
+  string(12) "mul(745,360)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(796,631)"
+  [1]=>
+  string(12) "mul(796,631)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(191,523)"
+  [1]=>
+  string(12) "mul(191,523)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(902,53)"
+  [1]=>
+  string(11) "mul(902,53)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(908,532)"
+  [1]=>
+  string(12) "mul(908,532)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(998,383)"
+  [1]=>
+  string(12) "mul(998,383)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(154,723)"
+  [1]=>
+  string(12) "mul(154,723)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(279,823)"
+  [1]=>
+  string(12) "mul(279,823)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(55,665)"
+  [1]=>
+  string(11) "mul(55,665)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(412,420)"
+  [1]=>
+  string(12) "mul(412,420)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(853,815)"
+  [1]=>
+  string(12) "mul(853,815)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(379,392)"
+  [1]=>
+  string(12) "mul(379,392)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(171,633)"
+  [1]=>
+  string(12) "mul(171,633)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(881,444)"
+  [1]=>
+  string(12) "mul(881,444)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(547,699)"
+  [1]=>
+  string(12) "mul(547,699)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(147,38)"
+  [1]=>
+  string(11) "mul(147,38)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(185,208)"
+  [1]=>
+  string(12) "mul(185,208)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(596,100)"
+  [1]=>
+  string(12) "mul(596,100)"
+}
+array(4) {
+  [0]=>
+  string(7) "don't()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(0) ""
+  [3]=>
+  string(7) "don't()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(827,857)"
+  [1]=>
+  string(12) "mul(827,857)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(114,321)"
+  [1]=>
+  string(12) "mul(114,321)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(889,568)"
+  [1]=>
+  string(12) "mul(889,568)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(775,388)"
+  [1]=>
+  string(12) "mul(775,388)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(90,546)"
+  [1]=>
+  string(11) "mul(90,546)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(408,866)"
+  [1]=>
+  string(12) "mul(408,866)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(818,40)"
+  [1]=>
+  string(11) "mul(818,40)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(203,389)"
+  [1]=>
+  string(12) "mul(203,389)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(608,627)"
+  [1]=>
+  string(12) "mul(608,627)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(296,533)"
+  [1]=>
+  string(12) "mul(296,533)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(341,534)"
+  [1]=>
+  string(12) "mul(341,534)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(858,725)"
+  [1]=>
+  string(12) "mul(858,725)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(703,386)"
+  [1]=>
+  string(12) "mul(703,386)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(501,854)"
+  [1]=>
+  string(12) "mul(501,854)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(69,163)"
+  [1]=>
+  string(11) "mul(69,163)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(810,823)"
+  [1]=>
+  string(12) "mul(810,823)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(825,165)"
+  [1]=>
+  string(12) "mul(825,165)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(495,234)"
+  [1]=>
+  string(12) "mul(495,234)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(918,879)"
+  [1]=>
+  string(12) "mul(918,879)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(656,686)"
+  [1]=>
+  string(12) "mul(656,686)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(461,612)"
+  [1]=>
+  string(12) "mul(461,612)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(838,164)"
+  [1]=>
+  string(12) "mul(838,164)"
+}
+array(2) {
+  [0]=>
+  string(11) "mul(96,648)"
+  [1]=>
+  string(11) "mul(96,648)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(817,690)"
+  [1]=>
+  string(12) "mul(817,690)"
+}
+array(2) {
+  [0]=>
+  string(10) "mul(7,265)"
+  [1]=>
+  string(10) "mul(7,265)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(459,756)"
+  [1]=>
+  string(12) "mul(459,756)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(909,698)"
+  [1]=>
+  string(12) "mul(909,698)"
+}
+array(3) {
+  [0]=>
+  string(4) "do()"
+  [1]=>
+  string(0) ""
+  [2]=>
+  string(4) "do()"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(622,257)"
+  [1]=>
+  string(12) "mul(622,257)"
+}
+array(2) {
+  [0]=>
+  string(12) "mul(764,419)"
+  [1]=>
+  string(12) "mul(764,419)"
+}
